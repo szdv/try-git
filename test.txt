@@ -3,3 +3,4 @@ yo
 this is the my feature line
 
 this is adding feature
+feature: conflict-2
